@@ -26,5 +26,5 @@ A simple HR analytics project using Python, Pandas, and Seaborn to analyze emplo
 
 ## Sample Outputs
 
-![Attrition Chart](attrition by Dept.png)
-![Attrition Chart](attrition by Age.png)
+![Attrition Chart](attrition by Dept)
+![Attrition Chart](attrition by Age)
