@@ -23,3 +23,8 @@ A simple HR analytics project using Python, Pandas, and Seaborn to analyze emplo
 2. Install dependencies  
    ```bash
    pip install pandas matplotlib seaborn
+
+## Sample Outputs
+
+![Attrition by Department](HR analyzer (attrition by Dept).png)
+![Attrition by Age](HR analyzer (attrition by Age).png)
